@@ -2,7 +2,7 @@
 <?php
 /**
  * Plugin Name: Site Info Helper
- * Description: A plugin that displays the website name and description.
+ * Description: A plugin that shows basic site information.
  * Author: Denise Joseph
  */
 
